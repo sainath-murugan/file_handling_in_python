@@ -1,0 +1,3 @@
+the first line is already written
+
+this line is written using append function and first line is not deleted
